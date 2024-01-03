@@ -1,6 +1,6 @@
-package DayOne;
+
 /**
- * Trebuchet
+ * Trebuchet - Day One
  */
 
 import java.util.ArrayList;
